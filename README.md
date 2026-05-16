@@ -1,0 +1,185 @@
+# Cybersecurity Student Toolkit 
+
+Practical resources for cybersecurity students, IT learners, SOC beginners, and self-taught security enthusiasts.
+
+---
+
+## Overview
+
+The Cybersecurity Student Toolkit is a practical digital resource pack designed to help learners build real-world cybersecurity skills faster through structured notes, automation scripts, workflows, templates, and AI-assisted learning resources.
+
+This toolkit focuses on:
+- Hands-on learning
+- Defensive security concepts
+- Ethical cybersecurity practices
+- Automation and productivity
+- Real-world workflows
+
+---
+
+# Toolkit Contents
+
+## 01 — Linux Cheat Sheets
+
+Quick-reference guides for essential Linux commands used in cybersecurity and IT environments.
+
+Topics include:
+- File navigation
+- Permissions
+- Process management
+- Networking commands
+- Package management
+- Search and filtering tools
+
+---
+
+## 02 — Networking Basics
+
+Practical networking notes covering foundational concepts every cybersecurity student should understand.
+
+Topics include:
+- TCP/IP
+- Ports and protocols
+- DNS basics
+- Subnetting
+- Packet flow
+- Common attack surfaces
+
+---
+
+## 03 — Recon Workflows
+
+Structured reconnaissance and OSINT workflows focused on ethical information gathering and attack surface analysis.
+
+Topics include:
+- Target enumeration
+- WHOIS lookups
+- DNS reconnaissance
+- Subdomain discovery
+- Passive OSINT workflows
+- Basic scanning methodology
+
+Tools referenced:
+- Nmap
+- Amass
+- theHarvester
+- Whois
+- Shodan
+
+---
+
+## 04 — Python Automation
+
+Beginner-friendly Python scripts designed to introduce automation concepts commonly used in cybersecurity workflows.
+
+Included scripts:
+- Port scanner
+- Password strength checker
+- Hash generator
+- Log parser
+- IP lookup utility
+
+Each script includes:
+- Comments
+- Usage instructions
+- Example outputs
+- Beginner-friendly structure
+
+---
+
+## 05 — AI Prompts
+
+A collection of AI prompts designed to help cybersecurity students learn faster, analyze information, and improve workflow efficiency using AI assistants.
+
+Examples include:
+- SOC analysis prompts
+- Vulnerability explanation prompts
+- Log analysis prompts
+- Study assistant prompts
+- Incident response prompts
+
+---
+
+## 06 — Templates
+
+Ready-to-use templates for organization, reporting, and workflow planning.
+
+Included templates:
+- Incident response checklist
+- Pentest report template
+- Cybersecurity study planner
+- Learning roadmap
+- Notes structure template
+
+---
+
+# Recommended Tools
+
+Suggested software and platforms for using this toolkit effectively:
+
+- Visual Studio Code
+- Kali Linux / Ubuntu
+- Python 3
+- GitHub
+- Notion
+- VirtualBox
+- Wireshark
+
+---
+
+# Ethical Use Statement
+
+This toolkit is intended strictly for:
+- Education
+- Defensive cybersecurity learning
+- Authorized environments
+- Ethical security research
+
+Do not use any techniques, workflows, or scripts against systems you do not own or have explicit permission to test.
+
+The creator assumes no responsibility for misuse of this material.
+
+---
+
+# Who This Toolkit Is For
+
+- Cybersecurity students
+- SOC analyst beginners
+- IT learners
+- Self-taught ethical hackers
+- Linux beginners
+- Security enthusiasts
+
+---
+
+# Version Information
+
+Version: 1.0.0 
+Release Type: Initial Release
+
+Future updates may include:
+- More automation scripts
+- Web security resources
+- SOC workflow dashboards
+- Malware analysis basics
+- Detection engineering content
+- AI-assisted security workflows
+
+---
+
+# Creator
+
+Kondwani Zulu  
+Cybersecurity Student | AI Builder | Automation Enthusiast
+
+---
+
+# Final Note
+
+Skill comes from execution.
+
+Study consistently.
+Build projects.
+Document your progress.
+Stay ethical.
+Keep learning.
